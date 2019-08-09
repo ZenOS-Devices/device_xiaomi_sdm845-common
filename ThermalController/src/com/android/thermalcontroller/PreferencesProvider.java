@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.pixelexperience.thermalcontroller;
+package com.android.thermalcontroller;
 
 import android.content.ContentProvider;
 import android.content.ContentValues;
