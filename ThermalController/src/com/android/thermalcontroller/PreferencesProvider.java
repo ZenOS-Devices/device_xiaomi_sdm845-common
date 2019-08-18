@@ -24,7 +24,7 @@ import android.database.MatrixCursor;
 import android.net.Uri;
 import android.text.TextUtils;
 
-import static com.android.internal.util.custom.thermal.ThermalController.*;
+import static com.android.internal.util.thermal.ThermalController.*;
 
 public class PreferencesProvider extends ContentProvider {
     private static final int PREFERENCES = 1;
